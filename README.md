@@ -40,7 +40,7 @@ Se calculan los mismos montos y porcentajes para conocer la evolución de los ga
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * **Lenguaje:** Python 3.11.5  
 * **Librerías:**
@@ -51,7 +51,7 @@ Se calculan los mismos montos y porcentajes para conocer la evolución de los ga
 
 ---
 
-## 🚀 Ejecución
+## Ejecución
 
 **Aviso importante:**  
 Los datos de la balanza contable contienen información sensible de la empresa para la cual se diseñó este código.  
